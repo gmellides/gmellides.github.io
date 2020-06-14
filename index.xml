@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Mellides Portfolio</title>
+    <link>https://gmellides.github.io/</link>
+    <description>Recent content on Gabriel Mellides Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://gmellides.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://gmellides.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gmellides.github.io/</guid>
+      <description>Introduction Hello&amp;hellip; My name is Gabriel Mellides was born at Kastoria in 1992, im working as Software Developer for 2 years and this is my personal portfolio.</description>
+    </item>
+    
+  </channel>
+</rss>

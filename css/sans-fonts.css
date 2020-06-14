@@ -1,0 +1,44 @@
+@font-face{
+	font-family:'sans-s-b';
+	src:url('../fonts/sans/SemiBold.ttf');
+}
+@font-face{
+	font-family:'sans-s-b-i';
+	src:url('../fonts/sans/SemiBoldItalic.ttf');
+}
+@font-face{
+	font-family:'sans-r';
+	src:url('../fonts/sans/Regular.ttf');
+}
+@font-face{
+	font-family:'sans-l-i';
+	src:url('../fonts/sans/LightItalic.ttf');
+}
+@font-face{
+	font-family: 'sans-l';
+	src:url('../fonts/sans/Light.ttf');
+}
+@font-face{
+	font-family:'sans-i';
+	src:url('../fonts/sans/Italic.ttf');
+}
+@font-face{
+	font-family:'sans-e-b-i';
+	src:url('../fonts/sans/ExtraBoldItalic.ttf');
+}
+@font-face{
+	font-family:'sans-b';
+	src:url('../fonts/sans/Bold.ttf');
+}
+@font-face{
+	font-family:'sans-b-i';
+	src:url('../fonts/sans/BoldItalic.ttf');
+}
+@font-face{
+	font-family:'sans-e-b';
+	src:url('../fonts/sans/ExtraBold.ttf');
+}
+
+
+
+
