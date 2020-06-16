@@ -11,15 +11,27 @@
   </url>
   
   <url>
+    <loc>https://gmellides.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gmellides.github.io/info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gmellides.github.io/intro/</loc>
+  </url>
+  
+  <url>
     <loc>https://gmellides.github.io/projects/</loc>
   </url>
   
   <url>
-    <loc>https://gmellides.github.io/work/</loc>
+    <loc>https://gmellides.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>https://gmellides.github.io/tags/</loc>
+    <loc>https://gmellides.github.io/work/</loc>
   </url>
   
 </urlset>

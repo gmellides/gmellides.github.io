@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gabriel Mellides Portfolio</title>
+    <title>Information on Gabriel Mellides Portfolio</title>
     <link>https://gmellides.github.io/</link>
-    <description>Recent content on Gabriel Mellides Portfolio</description>
+    <description>Recent content in Information on Gabriel Mellides Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -11,12 +11,50 @@
     
     
     <item>
-      <title>Information</title>
-      <link>https://gmellides.github.io/</link>
+      <title>Education</title>
+      <link>https://gmellides.github.io/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gmellides.github.io/</guid>
+      <guid>https://gmellides.github.io/education/</guid>
+      <description>Informatics Engineering (With specialization in Network Engineer)Oct 2014 - Jul 2018Technological Educational Institute of Western Macedonia, KastoriaNotable Courses:</description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>https://gmellides.github.io/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gmellides.github.io/info/</guid>
       <description>Introduction Hello&amp;hellip; My name is Gabriel Mellides was born at Kastoria in 1992, im working as Software Developer for 2 years and this is my personal portfolio.</description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>https://gmellides.github.io/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gmellides.github.io/intro/</guid>
+      <description>Introduction Hello&amp;hellip; My name is Gabriel Mellides was born at Kastoria in 1992, im working as Software Developer for 2 years and this is my personal portfolio.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://gmellides.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gmellides.github.io/projects/</guid>
+      <description>PyYuMusicPersonal Project
+May 2018 Aug 2018
+Description:</description>
+    </item>
+    
+    <item>
+      <title>Working Experience</title>
+      <link>https://gmellides.github.io/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gmellides.github.io/work/</guid>
+      <description>Web Developer (.Net Framework)European Dynamics, Marousi Athens</description>
     </item>
     
   </channel>
