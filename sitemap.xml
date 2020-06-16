@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gmellides.github.io/</loc>
+  </url>
+  
+  <url>
     <loc>https://gmellides.github.io/categories/</loc>
   </url>
   
@@ -11,15 +15,11 @@
   </url>
   
   <url>
-    <loc>https://gmellides.github.io/</loc>
+    <loc>https://gmellides.github.io/index.html</loc>
   </url>
   
   <url>
     <loc>https://gmellides.github.io/info/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gmellides.github.io/intro/</loc>
   </url>
   
   <url>
